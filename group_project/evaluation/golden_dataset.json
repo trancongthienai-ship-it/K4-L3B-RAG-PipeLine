@@ -1,0 +1,18 @@
+[
+  {
+    "question": "Thẻ tín dụng SeASoul hoàn tiền bao nhiêu phần trăm trên nền tảng Spotify?",
+    "ground_truth": "Thẻ SeASoul hoàn tiền 15% khi giao dịch tại các nền tảng: Spotify, Netflix, Youtube."
+  },
+  {
+    "question": "Hiện nay trên cả nước có khoảng bao nhiêu người sử dụng trái phép chất ma túy?",
+    "ground_truth": "Theo thống kê, hiện số người sử dụng trái phép chất ma túy, người nghiện và bị quản lý sau cai trên cả nước ở mức gần 300.000 người."
+  },
+  {
+    "question": "Tôi phải làm gì nếu bị nuốt thẻ ATM tại cây rút tiền?",
+    "ground_truth": "Nếu bị nuốt thẻ ATM, bạn hãy ưu tiên liên hệ ngân hàng ngay để bảo vệ tài khoản thông qua số hotline hoặc đến chi nhánh gần nhất để được hỗ trợ."
+  },
+  {
+    "question": "Nghị định 163/2026/NĐ-CP do ai ban hành?",
+    "ground_truth": "Nghị định quy định chi tiết và hướng dẫn thi hành một số điều của Luật Phòng, chống ma túy do Chính phủ ban hành (theo đề nghị của Bộ trưởng Bộ Công an)."
+  }
+]
